@@ -1,0 +1,147 @@
+#text1{
+
+    width: 187px;
+    height: 85.788px;
+    flex-shrink: 0;
+    color: #000;
+font-family: Inter;
+font-size: 64px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+margin-left: 100px;
+
+}
+
+#text2{
+
+    width: 435px;
+    height: 26.739px;
+    flex-shrink: 0;
+    color: var(--low-balck, #6D6D6D);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-left: 5px;
+}
+
+#username{
+
+    width: 272px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 50px;
+background: #D9D9D9;
+border: #6D6D6D;
+display: block;
+margin-left: 30px;
+margin-top: 21.26px;
+
+}
+
+#password{
+
+    width: 272px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 50px;
+background: #D9D9D9;
+border: #6D6D6D;
+display: block;
+margin-left: 30px;
+margin-top: 12px;
+
+}
+
+#sButton{
+
+    width: 272px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 50px;
+background: var(--grine, rgba(0, 113, 11, 0.71));
+border: var(--grine, rgba(0, 113, 11, 0.71));
+display: block;
+margin-left: 30px;
+margin-top: 21.26px;
+
+}
+
+#sText{
+
+    width: 99px;
+height: 66.739px;
+flex-shrink: 0;
+color: #FFF;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-left: 87px;
+margin-right: 86px;
+margin-top: 10px;
+margin-bottom: 10px;
+
+}
+
+#googleB{
+
+    width: 32.64px;
+height: 32.13px;
+flex-shrink: 0;
+border-radius: 40px;
+opacity: 0.5;
+background: #BDBDBD;
+border:#BDBDBD;
+margin-top: 30px;
+
+}
+
+#facebookB{
+
+    width: 32.64px;
+    height: 32.13px;
+    flex-shrink: 0;
+    border-radius: 40px;
+    opacity: 0.5;
+    background: #BDBDBD;
+    border: #BDBDBD;
+    margin-top: 30px;
+    margin-top: 30px;
+    margin-left: 130px;
+
+}
+
+#signUp{
+
+    color: var(--grine, rgba(0, 113, 11, 0.71));
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline;
+    
+}
+
+#text3{
+
+    color: #000;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline;
+    margin-left: 40px;
+
+}
+
+#form{
+
+transform: translate3d(800px,-500px,0px);
+
+}
